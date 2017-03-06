@@ -3,9 +3,9 @@
 	
 # Koa
 	
-	***Koa*** is a newer Node.JS framework than express , a designer could also build 
-	a server quickly with ***Koa*** . Actually , ***Koa*** do rebuild the request and response
-	of Http . So all of the node based API can be used in ***Koa*** . In Koa , middleware 、
+	Koa is a newer Node.JS framework than express , a designer could also build 
+	a server quickly with Koa . Actually , Koa do rebuild the request and response
+	of Http . So all of the node based API can be used in Koa . In Koa , middleware 、
 	yeild and other new features would offer you a different experience . Let's begin !
 
 
