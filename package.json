@@ -1,0 +1,27 @@
+{
+  "name": "koa-simple-demo",
+  "version": "0.0.1",
+  "description": "learn Node.JS's framework Koa",
+  "main": "index",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuding-Jason/koa.git"
+  },
+  "keywords": [
+    "Koa",
+    "node",
+    "nodejs"
+  ],
+  "author": "liuding",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuding-Jason/koa/issues"
+  },
+  "homepage": "https://github.com/liuding-Jason/koa#readme",
+  "dependencies": {
+    "koa": "^2.0.1"
+  }
+}
