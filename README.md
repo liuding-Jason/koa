@@ -11,7 +11,13 @@
 
 ## Included Examples
 
-
  - [hello-world](hello-world) - hello-world test ***Koa*** .
  - [yeild](yeild) - yeild shows how to do ***async*** programming .
  - [error](error) - error tells about error event of ***Koa*** .
+
+
+## CopyRight Declare
+
+	Copyright (c) 2016-present, Liuding, Inc. All rights reserved.
+
+	My ZhiHu Home Page 柳丁Jason Chen
