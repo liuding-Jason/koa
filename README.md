@@ -18,6 +18,7 @@
 
 ## CopyRight Declare
 
-	Copyright (c) 2016-present, Liuding, Inc. All rights reserved.
+Copyright (c) 2016-present, Liuding, Inc.
+All rights reserved.
 
-	My ZhiHu Home Page 柳丁Jason Chen
+My ZhiHu Home Page ***[柳丁Jason Chen](https://www.zhihu.com/people/liu-ding-jasonchen)*** 
