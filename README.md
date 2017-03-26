@@ -16,7 +16,34 @@
  - [error](error) - error tells about error event of ***Koa*** .
 
 
-## License
+## Build Guide 
+
+Use node's npm package tools to install dependent resources .
+
+***Supervisor*** could support hot and inline refresh of javaScript files .
+
+### build project
+```bash
+git clone https://github.com/liuding-Jason/node-series
+
+cd express && npm install
+```
+### run test egs
+```bash
+supervisor hello\ world/index.js 
+```
+### es6 compatible solution
+```bash
+node index.js --harmony
+```
+### to see results
+
+	http://localhost:3000
+
+***
+
+
+## Zhihu
 
 (The MIT License)
 
